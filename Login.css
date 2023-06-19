@@ -1,0 +1,120 @@
+            
+   body
+   {
+background-image: url("https://cutewallpaper.org/21/animated-website-background/Autodesk-Innovation-Website-Background-Image-1-silent-GIF.gif");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100% 100%; 
+
+   } 
+
+#nav
+{
+text-align: right;    
+color: black; 
+font-size: larger;
+}
+#navdiv
+{
+ align-items: center;
+ display: flex;
+ justify-content: space-between;
+}
+#LOGO
+{
+ text-align: left;
+ padding-top: 2px;
+ mix-blend-mode:multiply;
+ opacity: 100%;
+}
+
+ul li
+{
+display: inline-block;
+margin: 15px;
+color:black;
+}
+
+
+
+
+          #div1
+          {
+          
+           background-color: rgb(255, 255, 255);
+           width: 340px;
+           border-left: 45px;
+           padding:px;
+           margin: 20px;
+           margin-top:50px;
+           height: 450px;
+           box-shadow: 20px;
+           box-shadow: 0px 0px 10px  5px rgb(10, 10, 10);
+           border-radius: 30px;
+           opacity: 2px;  
+           background-color: rgb(164, 223, 229);    
+           font-family: ‘Poppins’, sans-serif;     
+          }
+   
+          #LOGINFORM
+          {
+            text-align:center;
+            padding: 20px;
+            color: rgb(253, 253, 253);
+            font-style:inherit;
+            font-weight:bolder;
+          }
+
+          #button1
+          {
+            width: 150px;
+            padding: 9px;
+            background:  rgb(86, 161, 174);
+            font-size: 19px;
+            border-radius: 20px;
+            color: aliceblue;
+          }
+
+          #button2
+          {
+            width: 150px;
+            padding: 9px;
+            font-size: 19px;
+            border-radius: 20px;
+          }
+
+          #Emailbox
+          {
+            width: 290px;
+            border-radius: 10px;
+            padding: 10px;
+            font-size:large;
+          }
+
+          #passwordbox
+          {
+            width: 290px;
+            border-radius: 10px;
+            padding: 10px;
+            font-size:large;
+          }
+          
+          #forgot
+          {
+            margin-right: 180px;
+            color: red;
+            font-size: 18px;
+            margin-top: 6px;
+          }
+
+          #submit
+          {
+            width: 310px;
+            border-radius: 5px;
+            padding: 10px;
+            font-size:large;
+            background:rgb(76, 144, 157);
+            color: beige;
+            border-radius: 45px;
+          }

@@ -1,0 +1,62 @@
+
+body
+   {
+      background-image: url("https://cutewallpaper.org/21/animated-website-background/Autodesk-Innovation-Website-Background-Image-1-silent-GIF.gif");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;  
+      overflow: scroll; 
+   }
+#nav
+{
+text-align: right;    
+color: black; 
+font-size: larger;
+}
+#navdiv
+ {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+ }
+#LOGO
+ {
+    text-align: left;
+    padding-top: 2px;
+    mix-blend-mode:multiply;
+    opacity: 100%;
+ }
+
+ul li
+{
+  display: inline-block;
+  margin: 15px;
+  color:black;
+}
+#content
+ {
+    font-size: 90px; 
+    text-align:center; 
+    margin-top: 150px;
+    margin-left: 10px;   
+    text-shadow: 0px 0px;       
+ }
+#content1
+{
+    font-size: 20px;
+    text-align:center;
+    margin-top: 2px;
+    margin-left: 10px;  
+}
+#home
+{
+ display:flex;
+ justify-content: space-between;
+}
+#img
+{
+    mix-blend-mode:multiply;
+    opacity: 1000%;
+    margin-top: 20px;
+}
